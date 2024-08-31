@@ -36,9 +36,9 @@ npm install
 Set up environment variables:
 Create a .env file in the root directory.
 Add the following variables:
+
 PORT=5000
 MONGO_URI=<Your MongoDB URI>
-FRONTEND_URL=http://localhost:5000
 JWT_SECRET=<Your JWT Secret>
 
 SMTP_HOST=<Your SMTP Host>
